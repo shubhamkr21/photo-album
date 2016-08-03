@@ -1,2 +1,2 @@
 # photo-album
-you can make a album of photos.
+you can make an album of photos.
